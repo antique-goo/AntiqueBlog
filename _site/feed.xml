@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">antique.io</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2021-02-23T03:11:33-05:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Goo Antique</name>
+  <uri>http://localhost:4000/</uri>
+  <email>antique-goo@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Introductions]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/post/18414600861/introductions" />
+  <id>http://localhost:4000/post/18414600861/introductions</id>
+  <updated>2018-08-26T00:00:00-00:00</updated>
+  <published>2018-08-26T00:00:00-04:00</published>
+  
+  <author>
+    <name>Goo Antique</name>
+    <uri>http://localhost:4000</uri>
+    <email>antique-goo@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;我是古风，&lt;a href=&quot;https://wiki.iredteam.cn/&quot;&gt;黑锋安全团队&lt;/a&gt;创建者，努力想成为安全研究员的安全研究员。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;擅长技能：Web安全、代码审计、红队攻击&lt;/li&gt;
+  &lt;li&gt;Github: &lt;a href=&quot;https://github.com/antique-goo&quot;&gt;antique-goo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;项目: &lt;a href=&quot;https://wiki.iredteam.cn/&quot;&gt;渗透测试文库&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;–antique&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/post/18414600861/introductions&quot;&gt;Introductions&lt;/a&gt; was originally published by Goo Antique at &lt;a href=&quot;http://localhost:4000&quot;&gt;antique.io&lt;/a&gt; on August 26, 2018.&lt;/p&gt;</content>
+</entry>
+
+</feed>
